@@ -1,2 +1,9 @@
-# EURO-2020
-GGR376: Assignment 1 project. This project is based on an article that talks about whether the EURO 2020 will take place in the summer of 2021 or not. 
+# Will EUROS 2020 take place in 2021? 
+GGR376: Assignment 1 project. 
+
+What is the article about? 
+In the article, the writer talks about the world-famous football (soccer) tournament – Euro 2020, which occurs every four years in Europe. However, due to the COVID-19 pandemic, this tournament was postponed to 2021. Nonetheless, the situation in Europe is still not certain due to several mutant strains of the virus and the distribution of vaccines. Hence, this article asks the question whether the tournament will take place in Summer 2021 considering the current trend of COVID-19. 
+link - https://www.espn.com/soccer/uefa-european-championship/story/4282074/clock-ticking-for-euro-2020-how-can-the-tournament-survive-the-covid-19-crisis
+
+How does my graph enhance the article?
+I used a line graph to show the number of COVID-19 cases from 1st June to 12th December 2020 for the ten shortlisted countries to host the Euro 2020. This graphical representation enhances the news article as the writer does mention the prevalence of COVID-19 in the specified countries however there are no numbers or graphs to back his statements regarding the recent situation in those countries. The graph that I have produced shows the scenario across the ten countries by using the same axis range and grid for better relative understanding of the situation. The use of facet_wrap() also enhances the visualization as the reader can either look at the situation across all the shortlisted countries as a whole or can specifically visualize the scenario in one country based on the number of COVID-19 cases. Moreover, based on the produced visualization, the reader or any other writer can predict the future around the tournament based on the recent trend of COVID-19 cases. Therefore, the visualization that I produced depicts the recent trend of COVID-19 cases in those ten countries as well as can help people predict the future trend to understand the scenario for summer 2021 better. 
